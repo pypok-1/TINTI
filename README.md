@@ -28,15 +28,15 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Projects
 
-### [SMART RECIPE](https://github.com) |
+### [SMART RECIPE](https://github.com) 
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
 * **Key Takeaways:** Engineered a reliable integration with external AI APIs; configured automated application monitoring and performance metrics; mastered Docker containerization for seamless deployment and production-level system logging.
 
-### [LUNOR](https://github.com) |
+### [LUNOR](https://github.com) 
 A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2 templates, featuring secure JWT/cookie authentication and account management.
 * **Key Takeaways:** Designed a clean RESTful API with rigid security standards using `bcrypt` for password hashing and secure token-based authentication; collaborated in a peer-to-peer setup utilizing Git workflows and Agile principles to hit strict project milestones.
 
-### [GameBar](https://github.com) |
+### [GameBar](https://github.com) 
  A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
 * **Key Takeaways:** My foundational project that introduced me to the complete software development lifecycle (SDLC); implemented robust database models, search queries, and relational data structures within a 3-person team.
 
@@ -44,5 +44,5 @@ A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2
 
 ## <img src="https://giphy.com" width="25px"> Connect with Me
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **GitHub:** You are already here! Feel free to explore my repositories, check out my code, and track my learning progress.
+* **GitHub:** [Eva](https://github.com/pypok-1)
+  * **Key Takeaways:** Now, jnly GutHub. But soon...
