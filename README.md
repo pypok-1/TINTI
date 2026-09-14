@@ -8,7 +8,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif width="25px"> Technical Stack
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gUNA7QH4AeLde/giphy.gif" width="25px"> Technical Stack
 
 * **Languages:** Python, HTML5, CSS3
 * **Frameworks & Libraries:** FastAPI, Flask, Jinja2, Tailwind CSS, SQLAlchemy
