@@ -52,5 +52,5 @@ A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2
 ## <img src="https://giphy.com" width="25px"> Connect with Me
 
 * **GitHub:** [Eva](https://github.com/pypok-1)
-  * *Note:** Now, only GutHub. But soon...
+  > *Note:* Now, only GutHub. But soon...
 
