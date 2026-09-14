@@ -1,4 +1,6 @@
-# Hi! I'm Eva <img src="https://i.pinimg.com/originals/9c/f7/b9/9cf7b9b8963b9280ede30705fc999674.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNjcjc4cmpyYmpoMXF0aWd1eG5lZm9hcWNsbG4xeGhoYWc1OWw2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12uRdK2q0199PW/giphy.gif" width="400" alt="coding gif"/>
+---
+# Hi! I'm Eva
 **Future Computer Science Student | Python & Backend Developer**
 
 I am an aspiring Computer Science student focused on building scalable web applications, mastering backend architecture, and exploring core computing principles. Actively developing production-ready projects and practicing modern DevOps workflows.
