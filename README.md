@@ -49,18 +49,10 @@ A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2
 
 ---
 
-## <img src="https://giphy.com" width="25px"> Technical Stack
+---
 
-### Languages
-<img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3">
+## <img src="https://giphy.com" width="25px"> Things I code with
 
-### Frameworks & Libraries
-<img src="https://shields.io" alt="FastAPI"> <img src="https://shields.io" alt="Flask"> <img src="https://shields.io" alt="Tailwind CSS">
-
-### Databases
-<img src="https://shields.io" alt="PostgreSQL">
-
-### Tools & DevOps
-<img src="https://shields.io" alt="Docker"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="Grafana"> <img src="https://shields.io" alt="Prometheus">
+<img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="FastAPI"> <img src="https://shields.io" alt="Flask"> <img src="https://shields.io" alt="PostgreSQL"> <img src="https://shields.io" alt="Docker"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="Grafana"> <img src="https://shields.io" alt="Prometheus"> <img src="https://shields.io" alt="Tailwind CSS"> <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3">
 
 ---
