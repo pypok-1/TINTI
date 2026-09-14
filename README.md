@@ -3,7 +3,6 @@
   <h1>Hi! I'm Eva</h1>
  <b>Self-Driven Software Developer & Aspiring Undergrad</b>
 </p>
-**Self-Driven Software Developer & Aspiring Undergrad**
 
 I am an independent developer preparing for university admissions. Currently focused on building scalable web applications, mastering backend architecture, and practicing modern DevOps workflows through hands-on, practical projects. I already have some experience, as I completed the second year at an online IT school in Ukrainian, but now, after a long break, I’ve come back and am continuing to study all day.
 
