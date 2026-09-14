@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJ0cWhxMmxiMWV6dmtyYTdhOW1xNjVrMmphNWwycnphd2VlaDM0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XTNObsY1pWQU/giphy.gif" width="400px"><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwMTNoMmw2MWMwODgxOWhwazlqOHZvY2xlaWUxMWQzYzQxYmU2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif" width="400px"><br>
   <h1>Hi! I'm Eva</h1>
  <b>Self-Driven Software Developer & Aspiring Undergrad</b>
 </p>
