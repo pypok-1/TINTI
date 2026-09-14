@@ -26,7 +26,7 @@ I am an independent developer preparing for university admissions. Currently foc
 
 ---
 
-## <img src="https://giphy.com" width="25px"> Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBjNGpvMHk5bm5maDNhcmRmb3FoaXpyOXpjNDcxa3FubHJ2YmR0NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DkMC8hCN9kLeUfa34N/giphy.gif" width="25px"> Projects
 
 ### [SMART RECIPE](https://github.com) | [Live Demo](https://YOUR_DEMO_LINK_HERE)
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
