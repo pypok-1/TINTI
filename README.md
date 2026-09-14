@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODNjcjc4cmpyYmpoMXF0aWd1eG5lZm9hcWNsbG4xeGhoYWc1OWw2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12uRdK2q0199PW/giphy.gif" width="400" alt="coding gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJ0cWhxMmxiMWV6dmtyYTdhOW1xNjVrMmphNWwycnphd2VlaDM0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XTNObsY1pWQU/giphy.gif" width="400" alt="coding gif"/>
 ---
 # Hi! I'm Eva
 **Future Computer Science Student | Python & Backend Developer**
