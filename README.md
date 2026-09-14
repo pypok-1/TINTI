@@ -1,13 +1,12 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmJ0cWhxMmxiMWV6dmtyYTdhOW1xNjVrMmphNWwycnphd2VlaDM0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XTNObsY1pWQU/giphy.gif" width="400" alt="coding gif"/>
----
-# Hi! I'm Eva
-**Future Computer Science Student | Python & Backend Developer**
+# Hi! I'm Eva <img src="https://giphy.com" width="30px">
+**Self-Driven Software Developer & Aspiring Undergrad**
 
-I am an aspiring Computer Science student focused on building scalable web applications, mastering backend architecture, and exploring core computing principles. Actively developing production-ready projects and practicing modern DevOps workflows.
+I am an independent developer preparing for university admissions. Currently focused on building scalable web applications, mastering backend architecture, and practicing modern DevOps workflows through hands-on, practical projects.
 
 ---
 
-## Technical Stack
+## <img src="https://giphy.com" width="25px"> Technical Stack
+
 * **Languages:** Python, HTML5, CSS3
 * **Frameworks & Libraries:** FastAPI, Flask, Jinja2, Tailwind CSS, SQLAlchemy
 * **Databases:** PostgreSQL
@@ -15,22 +14,32 @@ I am an aspiring Computer Science student focused on building scalable web appli
 
 ---
 
-## Projects
+## <img src="https://giphy.com" width="25px"> Methodologies & Professional Skills
 
-### [SMART RECIPE](https://github.com) 
+* **Teamwork & Collaboration:** Experienced in working within small cross-functional teams, managing tasks collectively, and practicing clear team communication.
+* **Development Workflows:** Proficient with Git-based collaboration (pull requests, code reviews, and branching strategies) and familiar with Agile/Scrum fundamentals.
+* **Problem Solving:** Strong analytical mindset with a focus on debugging complex backend performance challenges and configuring system alerts.
+* **Self-Management:** Highly organized, self-motivated learner capable of scoping project requirements and meeting strict delivery deadlines.
+
+---
+
+## <img src="https://giphy.com" width="25px"> Projects
+
+### [SMART RECIPE](https://github.com) | [Live Demo](https://YOUR_DEMO_LINK_HERE)
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
 * **Key Takeaways:** Engineered a reliable integration with external AI APIs; configured automated application monitoring and performance metrics; mastered Docker containerization for seamless deployment and production-level system logging.
 
-### [LUNOR](https://github.com) 
+### [LUNOR](https://github.com) | [Live Demo](https://YOUR_DEMO_LINK_HERE)
 A full-stack skincare web application built with FastAPI, SQLAlchemy, and Jinja2 templates, featuring secure JWT/cookie authentication and account management.
 * **Key Takeaways:** Designed a clean RESTful API with rigid security standards using `bcrypt` for password hashing and secure token-based authentication; collaborated in a peer-to-peer setup utilizing Git workflows and Agile principles to hit strict project milestones.
 
-### [GameBar](https://github.com) 
-A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
+### [GameBar](https://github.com) | [Live Demo](https://YOUR_DEMO_LINK_HERE)
+ A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, featuring global search, genre/rating filtering, and a personalized favorites system.
 * **Key Takeaways:** My foundational project that introduced me to the complete software development lifecycle (SDLC); implemented robust database models, search queries, and relational data structures within a 3-person team.
 
 ---
 
-## Connect with Me
+## <img src="https://giphy.com" width="25px"> Connect with Me
 
-* **GitHun:** [Pypok-1](https://github.com/pypok-1)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **GitHub:** You are already here! Feel free to explore my repositories, check out my code, and track my learning progress.
