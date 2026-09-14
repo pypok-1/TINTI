@@ -1,11 +1,11 @@
-# Hi! I'm Eva 👋
+# Hi! I'm Eva <img src="https://giphy.com" width="30px">
 **Future Computer Science Student | Python & Backend Developer**
 
 I am an aspiring Computer Science student focused on building scalable web applications, mastering backend architecture, and exploring core computing principles. Actively developing production-ready projects and practicing modern DevOps workflows.
 
 ---
 
-## 🛠️ Technical Stack
+## <img src="https://giphy.com" width="25px"> Technical Stack
 
 * **Languages:** Python, HTML5, CSS3
 * **Frameworks & Libraries:** FastAPI, Flask, Jinja2, Tailwind CSS, SQLAlchemy
@@ -14,7 +14,7 @@ I am an aspiring Computer Science student focused on building scalable web appli
 
 ---
 
-## 🚀 Projects
+## <img src="https://giphy.com" width="25px"> Projects
 
 ### [SMART RECIPE](https://github.com) | [Live Demo](https://YOUR_DEMO_LINK_HERE)
 A collaborative web service powered by AI (OpenRouter) and PostgreSQL, featuring an advanced recipe generator and a complete monitoring stack (Grafana & Prometheus).
@@ -30,7 +30,7 @@ A game catalog web application built with Flask, SQLAlchemy, and Tailwind CSS, f
 
 ---
 
-## 📬 Connect with Me
+## <img src="https://giphy.com" width="25px"> Connect with Me
 
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **LinkedIn:** [://linkedin.com](https://://linkedin.com)
